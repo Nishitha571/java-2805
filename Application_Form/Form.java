@@ -51,14 +51,14 @@ public class Form{
         System.out.println("Is PWD: " +isPWD);
         System.out.println('\n');
 
-        System.out.println("Father name is: " +fathers_name);
-        System.out.println("Father occupation is: " +occupation);
-        System.out.println("Father Contact number is: " +fathers_contact_number);
+        System.out.println("Fathers name is: " +fathers_name);
+        System.out.println("Fathers occupation is: " +occupation);
+        System.out.println("Fathers Contact number is: " +fathers_contact_number);
         System.out.println('\n');
 
-        System.out.println("Mother name is: " +mothers_name);
-        System.out.println("Mother occupation is: " +Occupation);
-        System.out.println("Mother Contact number is: " +mothers_contact_number);
+        System.out.println("Mothers name is: " +mothers_name);
+        System.out.println("Mothers occupation is: " +Occupation);
+        System.out.println("Mothers Contact number is: " +mothers_contact_number);
         System.out.println('\n');
 
         System.out.println("*****************************************");
